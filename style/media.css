@@ -1,0 +1,14 @@
+@media screen and (max-width: 420px) {
+    .header {
+        display: flex;
+        justify-content: space-between;
+        padding: 30px;
+    }
+    .nav {
+        display: none;
+
+    }
+}
+
+@media screen and (max-width: 1200px) {
+}
